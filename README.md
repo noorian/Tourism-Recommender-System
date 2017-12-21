@@ -1,14 +1,13 @@
-[![Codecov](https://img.shields.io/badge/version-1.0-blue.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/powered%20by-Yanqing-green.svg?style=flat-square)]()
-
-![](icon/logo_BUPT.png)
+![](icon/logo.png)
 
 # Travel Recommendation System
+[![Codecov](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/powered%20by-Yanqing-green.svg?style=flat-square)]()
 
-A course program in BUPT
+This is a system aimming to help tourists to plan their trip in an unfamiliar city easily. The recommendation algorithm is based on the cellphone usage data provided by China Unicom.
 
-## Introduction
+## Modules
 
-We developed a travel recommendation system based on the dataset of base stations.
+![](/graph/graph.png)
 
 ## License
 Apache 2.0
