@@ -1,4 +1,4 @@
-![](icon/logo.png)
+![](icon/logo_small.png)
 
 # Travel Recommendation System
 [![Codecov](https://img.shields.io/badge/version-2.0-blue.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)]()  [![Codecov](https://img.shields.io/badge/powered%20by-Yanqing-green.svg?style=flat-square)]()
