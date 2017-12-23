@@ -10,5 +10,4 @@ This is a system aimming to help tourists to plan their trip in an unfamiliar ci
 ![](/graph/graph.png)
 
 ## License
-Apache 2.0
-
+MIT
